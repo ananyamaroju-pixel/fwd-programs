@@ -1,0 +1,17 @@
+table{
+    background-color:beige;
+    border: 2px solid black;
+    padding: 3px;
+    margin: 5px;border-collapse: collapse; width:100%;
+    
+}
+ 
+ 
+ td,th{
+    border:2px solid purple;
+    margin:10px;text-align: center;           
+
+ }
+                
+            
+            
